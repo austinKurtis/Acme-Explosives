@@ -1,0 +1,58 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "Nitroglycerin",
+            "description": "The first practical explosive produced that was stronger than black powder."
+        }
+        {
+            "id": 0,
+            "category": 0,
+            "name": "Methyl nitrate",
+            "description": "Methyl nitrate is a sensitive explosive. When ignited it burns extremely fiercely with a gray-blue flame."
+        },
+        {
+            "id": 0,
+            "category": 0,
+            "name": "Isopropyl Nitrate",
+            "description": "Isopropyl nitrate is extremely flammable and burns with a practically invisible flame."
+        }
+        {
+            "id": 1,
+            "category": 1,
+            "name": "Gunpowder",
+            "description": "It burns very quickly, and creates gases."
+        },
+        {
+            "id": 1,
+            "category": 1,
+            "name": "Flash powder",
+            "description": "Fine metal powder (usually aluminium or magnesium) and a strong oxidizer."
+        },
+        {
+            "id": 1,
+            "category": 1,
+            "name": "Ammonal",
+            "description": "Ammonium nitrate and aluminium powder."
+        }
+        {
+            "id": 2,
+            "category": 2,
+            "name": "Dynamite",
+            "description": "An explosive made of nitroglycerin, sorbents (such as powdered shells or clay) and stabilizers."
+        }
+        {
+            "id": 2,
+            "category": 2,
+            "name": "TNT",
+            "description": "One of the most commonly used explosives for military, industrial, and mining applications."
+        }
+        {
+            "id": 2,
+            "category": 2,
+            "name": "Rocket Engine",
+            "description": "Ammonium nitrate and aluminium powder."
+        }
+    ]
+}

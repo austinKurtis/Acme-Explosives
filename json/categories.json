@@ -1,0 +1,16 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "Liquid"
+        },
+        {
+            "id": 1,
+            "name": "Powder"
+        },
+        {
+            "id": 3,
+            "name": "Solid"
+        }
+    ]
+}
